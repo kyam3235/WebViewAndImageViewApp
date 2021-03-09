@@ -10,7 +10,7 @@ Does not occur with Android Virtual Device.
 ## What's happen
 
 circle.png's original circle color is #00a2ff.  
-But, the color of the circle changes.
+But, the color of the circle changes or flickering.
 
 ## Operation
 
